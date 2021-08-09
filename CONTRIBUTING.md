@@ -1,1 +1,0 @@
-We welcome pull requests.
